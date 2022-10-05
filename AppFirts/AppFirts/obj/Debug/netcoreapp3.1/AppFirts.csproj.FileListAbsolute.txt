@@ -1,0 +1,5 @@
+C:\Users\Lennin\source\repos\AppFirts\AppFirts\obj\Debug\netcoreapp3.1\AppFirts.csproj.AssemblyReference.cache
+C:\Users\Lennin\source\repos\AppFirts\AppFirts\obj\Debug\netcoreapp3.1\AppFirts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lennin\source\repos\AppFirts\AppFirts\obj\Debug\netcoreapp3.1\AppFirts.AssemblyInfoInputs.cache
+C:\Users\Lennin\source\repos\AppFirts\AppFirts\obj\Debug\netcoreapp3.1\AppFirts.AssemblyInfo.cs
+C:\Users\Lennin\source\repos\AppFirts\AppFirts\obj\Debug\netcoreapp3.1\AppFirts.csproj.CoreCompileInputs.cache
